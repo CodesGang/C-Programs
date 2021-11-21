@@ -9,8 +9,13 @@ Compile them and learn more.
 
 Stay tuned! with us.
 
+
+Note: 10 programs are taken from "Object Oriented Programming with C++: E Balagurusamy" 
+
+Contributor: Lovish
+
 Regards,
 Codes Gang
 
 
-Last Updated on 4th November,2021.
+Last Updated on 21st November,2021.
